@@ -2,6 +2,8 @@
 
 Bu uygulama, Big Five kişilik modelini kullanarak kullanıcıların kişilik özelliklerini analiz eden bir web uygulamasıdır.
 
+Dataset: https://drive.google.com/file/d/1odbJSVkN40n30oNnjgiZ1Ojqm0WoR6ty/view?usp=sharing
+
 ## Özellikler
 
 - **50 Soruluk Kapsamlı Test**: Beş temel kişilik boyutunu ölçen 50 soru
